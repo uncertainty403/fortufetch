@@ -1,16 +1,16 @@
-# Maintainer: kazumi <dima.burak1811@gmail.com>
+
+# Maintainer: Your Name <you@example.com>
 pkgname=fortunafetch
-pkgver=1.0.1
-pkgrel=1
-pkgdesc="FortunaFetch — 100% faster than fastfetch, scientifically proven in Chernigovka using a potato and a shared dial-up line."
-arch=('any') 
-url="https://github.com/retroover/fortunafetch"
-license=('GPL-3.0-or-later') 
-depends=('bash' 'coreutils')
-source=("https://github.com/retroover/fortunafetch/archive/refs/tags/v${pkgver}.tar.gz")
-md5sums=('SKIP') 
+pkgver=2.1
+pkgrel=3
+pkgdesc="THE BEST FETCH IN THE WORLD OF ALL EXISTING. 100% FASTER THAN FASTFETCH AND NEOFETCH. PROVEN BY SCIENTISTS.( The following project is a meme and was made for fun dont take it seriously )"
+arch=('any')
+url="https://github.com/alexskid/fortunafetch"  # Рекомендую заменить на GitHub или другой реальный URL
+license=('GPL 3.0')
+depends=('xorg-xrandr' 'lsb-release' 'pciutils' 'inetutils' 'procps-ng')  # нужные зависимости
+source=("$pkgname".sh)
+md5sums=('SKIP')
 
 package() {
-  cd "$srcdir/${pkgname}-${pkgver}"
-  install -Dm755 fortunafetch.sh "$pkgdir/usr/bin/fortunafetch"
+  install -Dm755 "$srcdir/$pkgname.sh" "$pkgdir/usr/bin/$pkgname"
 }

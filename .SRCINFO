@@ -1,13 +1,16 @@
 pkgbase = fortunafetch
-	pkgdesc = FortunaFetch — 100% faster than fastfetch, scientifically proven in Chernigovka using a potato and a shared dial-up line.
-	pkgver = 1.0.1
-	pkgrel = 1
-	url = https://github.com/retroover/fortunafetch
+	pkgdesc = THE BEST FETCH IN THE WORLD OF ALL EXISTING. 100% FASTER THAN FASTFETCH AND NEOFETCH. PROVEN BY SCIENTISTS.( The following project is a meme and was made for fun dont take it seriously )
+	pkgver = 2.1
+	pkgrel = 3
+	url = https://github.com/alexskid/fortunafetch
 	arch = any
-	license = GPL-3.0-or-later
-	depends = bash
-	depends = coreutils
-	source = https://github.com/retroover/fortunafetch/archive/refs/tags/v1.0.1.tar.gz
+	license = GPL 3.0
+	depends = xorg-xrandr
+	depends = lsb-release
+	depends = pciutils
+	depends = inetutils
+	depends = procps-ng
+	source = fortunafetch.sh
 	md5sums = SKIP
 
 pkgname = fortunafetch
