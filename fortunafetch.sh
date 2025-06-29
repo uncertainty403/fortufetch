@@ -1,4 +1,136 @@
-gH4="Ed";kM0="xSz";c="ch";L="4";rQW="";fE1="lQ";s=" '=oQDisWRDJ2VoNXVWR0LndmLkJ3bjNXak9yL6MHc0RHagASfD50ekojWUlERFJ1Q95URFJ1R7RiIgUWLg8GajVmCNICK64DIUVkTgASfD50ekozPS9EVBtUSEBCRJt0UBJFVMVVfOVURSd0ekICIl1CIvh2YlpQDiEUQBREI9NkT7RiO/Q3cv9mYUJVQNNFdl5WQOVFVS9kRgQVQIRURSBCVJ9ETQhVRgQ1UFlVfOVURSd0ekICIl1CIvh2YlpQDiwUQOlUTSVEVkACIgACIgASfD50ekoDbh5WatJXZU1nTFVkUHtHJiASZtAyboNWZK0gIZFETQNVSERCIgACIgACIg03QOtHJ6kXYsB3cpRUfOVURSd0ekICIl1CIvh2YlpQDi0UQSRCIgACIgACIgACIgASfD50ekoTTBJVfOVURSd0ekICIl1CIvh2YlpQDiUFUHRCIgACIgACIgACIgASfD50ekoTVQdUfOVURSd0ekICIl1CIvh2YlpQDiUFUDRCIgACIgACIgACIgASfD50ekoTVQNUfOVURSd0ekICIl1CIvh2YlpQDikictASZtFmb1hCJgACIgACIgACI9NkT7RiOsVmbyV2S95URFJ1R7RiIgUWLg8GajVmCNIyUPRCIgACIgACIgACIgACI9NkT7RiOT9UfOVURSd0ekICIl1CIvh2YlpQDiM1UFJFREF0XQlEJgACIgASfD50ekozczVmckRWQgAVS95URFJ1R7RiIgUWLg8GajVmCNISRNFkTUN1TIRCIgACIgACI9NkT7RiOl1WYuR3cvhUfOVURSd0ekICIl1CIvh2YlpQDi03QOtHJYSp4ASp4ASp4ASp4ASp4ASp4ASp4ASp4ASp4ASp4ASp4ASp4ASp4ASp4ASp4ASp4ASp4ASp4ASp4ASp4ASp4ASp4ASp4USp49VUVMJ0ekICIl1CIvh2YlpQDi03QOtHJCSp49VUVMJ0ekACIgACIg8mZulEItVGdzl3U95URFJ1R7RCIgACIgIIli3XRVxkQ7RiIgUWLg8GajVmCNISfD50ekAJliDIliDIliDIliDIliDIliDIliDIliDIliDIliDIliDIliDIliDIliDIliDIliDIliDIliDIliDIliDIliDIliDIlizIli3XRVxkQ7RiIgUWLg8GajVmCNUL08CdtQLY0BGNuQHY0g4L0ggL04CthRDL08CNgR7L0EGdvQjL0gQL0+CtsQvY0SCNIjoQDK0gI9NkT7RiIgUWLg8GajVmCNISkWKekWKekWKekWKekWKekWKOIgACIgACIgACIgACIgACIgACIgACIgACIiAyboNWZK0gIRap4Rap4Rap4Rap4Rap4Sap4Sap4Rap4Rap4Rap4Rap4Rap4gACIgACIgACIgACIgACIgACIgACIgICIvh2YlpQDiEpliHpliHpliLpliLpliLpliLpliLpliLpliHpliHpliHpliDCIgACIgACIgACIgACIgACIgACIgAiIg8GajVmCNISkWKekWKekWKekWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKekWKekWKekWKekWKOIgACIgACIgACIgACIgACIgACIiAyboNWZK0gIRap4Rap4Rap4Rap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Rap4Rap4Rap4Rap4gACIgACIgACIgACIgACIgAiIg8GajVmCNISkWKekWKekWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKekWKekWKOIgACIgACIgACIgACIgACIgICIvh2YlpQDiEpliHpliHpliHpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliHpliHpliHpliHpliDCIgACIgACIgACIgACIiAyboNWZK0gIRap4Rap4Rap4Rap4Rap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Rap4Rap4Rap4Rap4Rap4gACIgACIgACIgAiIg8GajVmCNISkWKekWKekWKukWKukWKekWKekWKekWKekWKekWKukWKukWKukWKukWKukWKekWKekWKekWKekWKukWKukWKukWKukWKukWKekWKekWKekWKekWKekWKukWKukWKekWKekWKekWKOIgACIgACIgACIgICIvh2YlpQDiEpliHpliHpliHpliLpliLpliLpliLpliLpliLpliLpliHpliHpliHpliHpliHpliLpliLpliHpliHpliHpliHpliHpliLpliPpliPpliPpliPpliPpliPpliHpliHpliHpliHpliDCIgACIgACIgACIiAyboNWZK0gIRap4Rap4Rap4Rap4Sap4Sap4Sap4Sap4Rap4Rap4Rap4Rap4Rap4Sap4Sap4Sap4Sap4Rap4Rap4Sap4Sap4Rap4Rap4Sap4Tap4Tap4Tap4Rap4Rap4Rap4Rap4Rap4Tap4Tap4Tap4Tap4Rap4Rap4Rap4Rap4gACIgACIgAiIg8GajVmCNISkWKekWKekWKukWKukWKekWKekWKekWKekWKOIgEpliHpliHpliHpliHpliHpliLpliLpliHpliHpliHpliHpliPpliPpliLpliHpliHpliHpliHpliDCIRap4Rap4Rap4Rap4Tap4Tap4Rap4Rap4gACIgACIgACIiAyboNWZK0gIRap4Rap4Sap4Sap4Rap4Rap4gACIRap4Rap4Iap4Tap4Rap4Rap4Rap4Rap4Sap4Sap4Rap4Rap4Tap4Tap4Rap4Rap4Rap4Rap4Tap4Iap4Rap4Rap4gACIRap4Rap4Tap4Tap4Rap4Rap4gACIgACIgAiIg8GajVmCNISkWKekWKukWKukWKekWKekWKOIRap4Rap4Iap4Iap4Iap4Tap4Iap4Iap4Rap4Rap4Sap4Sap4Rap4Rap4Tap4Tap4Rap4Rap4Tap4Iap4Tap4Iap4Iap4Iap4Rap4Rap4gASkWK+kWK+kWKekWKekWKOIgACIgACIgICIvh2YlpQDiEpliLpliLpliHpliHpliDCIRap4Iap4Iap4Rap4Rap4Rap4Sap4Rap4Rap4Sap4Sap4Rap4Rap4Tap4Tap4Rap4Rap4Iap4Rap4Rap4Rap4Iap4Iap4Rap4Rap4gEpliHpliPpliPpliHpliHpliDCIgACIgACIiAyboNWZK0gIRap4Rap4Sap4Sap4Sap4Rap4Rap4Rap4Rap4Rap4Iap4Iap4Rap4Sap4Rap4Rap4Sap4Sap4Sap4Rap4Rap4Rap4Tap4Tap4Rap4Rap4Rap4Rap4Iap4Iap4Rap4gACIRap4Tap4Tap4Tap4Rap4Rap4gACIgACIgAiIg8GajVmCNISkWKekWKekWKekWKukWKukWKekWKekWKekWKekWKekWKekWKekWKekWKekWKukWKukWKekWKekWKukWKukWKekWKekWK+kWK+kWKekWKekWKekWKekWKekWKekWKekWKekWKekWK+kWK+kWKukWKekWKekWKekWKOIgACIgACIgICIvh2YlpQDiEpliHpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliLpliHpliHpliLpliLpliLpliLpliHpliHpliLpliPpliPpliPpliPpliPpliPpliPpliPpliPpliPpliHpliHpliDCIgACIgACIgACIiAyboNWZK0gIRap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Rap4Rap4Rap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Sap4Rap4Rap4Rap4Tap4Tap4Tap4Tap4Tap4Tap4Tap4Tap4Tap4Rap4gACIgACIgACIgAiIg8GajVmCNISkWKekWKukWKukWKukWKukWKukWKukWKekWKekWKekWKekWKekWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKukWKekWKekWKekWKekWKekWK+kWK+kWK+kWK+kWK+kWK+kWKekWKekWKOIgACIgACIgAiIg8GajVmCNISkWKekWKukWKukWKekWKekWKekWKekWKOIgEpliHpliHpliHpliHpliHpliHpliHpliHpliHpliHpliHpliHpliHpliHpliHpliHpliDCIgEpliHpliHpliHpliPpliPpliHpliHpliHpliDCIgACIgACIiAyboNWZK0gIRap4Rap4Rap4Rap4Rap4Rap4gACIgACIgACIgACIgACIgACIgACIgACIgACIgEpliHpliHpliHpliHpliHpliDCIgACIgACIiAyboNWZK0gIRap4Rap4Rap4Rap4Rap4Rap4gACIgACIgACIgACIgACIgACIgACIgACIgACIgEpliHpliHpliHpliDSkWKOIgACIgACIgICIvh2YlpQDi0XRH5UQS90ekICIl1CIvh2YlpQDgIY0AGNsQ3SSJN0UBByIK0gCNkSZtFmb0N3bohCJ9UUTB5EVT9ESK0QKn0nMkAiIvICIzQCI05WayB3eg8iOtVWTvcCIrdXYgwHIo1CIlVmcmhCJ90UQSpQDp0kUFRFJg8GajVGKk0DTB5USNJVRUpQDpcSfzQCI05WayB3enAya3FGI8ByJkVGdjVmbu92YgcCIwVmcnBCfgIHZuFmc4hCJ9kVQMB1UJRkCNkyJv8iKdRHXgslXvM3JgQWZzBCfgIDIm1CInozJgQWLgQXdjBCfgQWLgU2chVGblJ3XiNHboQSPT9kCNkyJ9FDJgQnbpJHc7dCIrdXYgwHIJ1CIl1WYuR3cvhGKk0zUTVkUERUQfBVSK0QKn8yLq0FdcByWe9ycnACZlNHI8ByMgYWLgciOnACZtACd1NGI8BSYnZHIp1CIwVmcnBCfgk2YwNHboQSPVB1RK0QKn8yLq0FdcByWe9ycnACZlNHI8BiMgYWLgciOnACZtACd1NGI8Bybm5Wa1B3YvM2byB3LgcSZtFmbgwWZk9WbnASMg0WLgAXZydGKk0TVQNkCNUL08CdtQLY0BGNuQHY0g4L0ggL04CthRDL08CNgR7L0EGdvQjL0gUL04CdvQXL0HG9gRvL0+C9nQDyIK0gCNcSbws1MzADXn0zQOpQDn0mMzsDMbNzMww1J94URFJ1RK0wJtRzM7AzWzMDMcdSPFVFTCpQDn02MzsDMbNzMww1J9U0ROFkUPpQDwCtgRXL0yCtpQDyIK0gCNg2chJ2LulmYvEyI
-' | r";HxJ="s";Hc2="";f="as";kcE="pas";cEf="ae";d="o";V9z="6";P8c="if";U=" -d";Jc="ef";N0q="";v="b";w="e";b="v |";Tx="Eds";xZp=""
-x=$(eval "$Hc2$w$c$rQW$d$s$w$b$Hc2$v$xZp$f$w$V9z$rQW$L$U$xZp")
-eval "$N0q$x$Hc2$rQW"
+
+#!/bin/bash
+
+# Цвета ANSI
+ORANGE='\033[0;33m'   # оранжевый/желтый
+BLUE='\033[0;34m'     # синий
+GREEN='\033[0;32m'    # зеленый
+NC='\033[0m'          # сброс цвета
+
+# --- Логотип ---
+echo -e "${ORANGE}"
+cat << "EOF"
+        ░ ░░░░                            ░░░░░░
+        ░░░░░░                            ░░░░░░
+        ░░░▓▓░░░░   ░░░░░░░░░░░░░░░░░  ░░░░▒▒░░
+         ░░▓▓▓▓▓▓░░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░░░░▒▒▒▒▒▒░░
+           ░▓▓▓▓▓▓▓▓▓░░░▒▒▒▒▒▒▒▒░░░▒▒▒▒▒▒▒▒▒▒░
+           ░░▓▓▓▓▓▓▓▓▓▓▒░░▒▒▒▒░░▒▒▒▒▒▒▒▒▒▒▒░░
+        ░░░▒▓▓░░░░░░░░░▓▓░░▒▒░░▒▒░░░░░░░░░▒▒░░░░
+        ░░▓▓▓░   ░██░░░░▓▓░░░▒▒▒░░▒░██░░░░░▒▒▒░░
+        ░░▓▓░░ ░░██░░░█░░▓▓░░▒▒░░▒░░░██░  ░░▒▒░
+        ░░▓▓░  ░░███▓█▓░░▓▓░░▒▒░░██▓███░░ ░░▒▒░░
+        ░░▓▓░░   ░░█▓░░░░▓▓░░▒▒░░░░▓█░░   ░░▒▒░░
+         ░░▓▓░░░░  ░░░░▒▓▓░░░░▒▒░░░░░░  ░░░░▒▒░░░
+        ░░░░▓▓▓▓░░░░░▓▓▓▒░░▒▒░░▒▒▒▒░░░░░▒▒▒▒░░░░
+           ░░░░▓▓▓▓▓▓▒░░░░░▒▒░░░░░▒▒▒▒▒▒▒░░░░
+           ░░░▒▒░░░░░▒▒▒▒▒░░░░▒▒▒▒▒░░░░░▒▒░░░
+           ░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░
+              ░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░
+                 ░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░
+                 ░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░
+                   ░░░░▒▒▒▒▒▒▒▒▒▒░░░░
+                      ░░░▒▒▒▒▒▒░░░
+                      ░░░░░▒▒░░░░░
+                         ░░░░░░
+EOF
+echo -e "${NC}"
+
+# --- Информация ---
+
+# OS
+OS=$(lsb_release -d 2>/dev/null | cut -d ':' -f 2 | sed 's/^[ \t]*//')
+if [ -z "$OS" ]; then
+  OS=$(cat /etc/os-release 2>/dev/null | grep PRETTY_NAME | cut -d '=' -f2 | tr -d '"')
+fi
+
+# Kernel
+KERNEL=$(uname -r)
+
+# Hostname
+HOSTNAME=$(hostname)
+
+# Uptime
+UPTIME=$(uptime -p)
+
+# Shell
+SHELL=$(basename "$SHELL")
+
+# Resolution
+RESOLUTION=$(xrandr | grep '*' | awk '{print $1}' | head -n1)
+
+# DE or WM
+DE=$(echo $XDG_CURRENT_DESKTOP)
+if [ -z "$DE" ]; then
+  DE=$(wmctrl -m 2>/dev/null | grep Name | cut -d ':' -f2 | sed 's/^[ \t]*//')
+fi
+if [ -z "$DE" ]; then DE="N/A"; fi
+
+# WM Theme, GTK Theme, Icon Theme — попробуем из gsettings (GNOME/GTK)
+GTK_THEME=$(gsettings get org.gnome.desktop.interface gtk-theme 2>/dev/null | tr -d "'")
+ICON_THEME=$(gsettings get org.gnome.desktop.interface icon-theme 2>/dev/null | tr -d "'")
+WM_THEME=$(gsettings get org.gnome.desktop.wm.preferences theme 2>/dev/null | tr -d "'")
+
+# CPU
+CPU=$(grep -m 1 'model name' /proc/cpuinfo | cut -d ':' -f 2 | sed 's/^[ \t]*//')
+
+# GPU
+GPU=$(lspci | grep -i 'vga\|3d\|2d' | head -n1 | cut -d ':' -f3 | sed 's/^[ \t]*//')
+
+# RAM (used/total)
+RAM=$(free -h | awk '/Mem:/ {print $3 " / " $2}')
+
+# Disk (root partition usage)
+DISK=$(df -h / | awk 'NR==2{print $3 " / " $2}')
+
+# Terminal
+TERMINAL="$TERM"
+
+# Battery (если есть)
+BATTERY=""
+if command -v acpi >/dev/null 2>&1; then
+  BATTERY=$(acpi -b | head -n1 | cut -d ',' -f2 | sed 's/^ //')
+fi
+
+# Locale
+LOCALE=$(locale | grep LANG= | cut -d= -f2)
+
+# CPU Usage (средняя загрузка по 1 минуте)
+CPU_USAGE=$(top -bn1 | grep "Cpu(s)" | awk '{print 100 - $8"%"}')
+
+# --- Вывод с цветами ---
+
+echo -e "${BLUE}┌───────────────────────────────┐${NC}"
+echo -e "${BLUE}│       ${GREEN}System Information      ${BLUE}│${NC}"
+echo -e "${BLUE}└───────────────────────────────┘${NC}"
+
+echo -e "${GREEN}Hostname:${NC}      $HOSTNAME"
+echo -e "${GREEN}OS:${NC}            $OS"
+echo -e "${GREEN}Kernel:${NC}        $KERNEL"
+echo -e "${GREEN}Uptime:${NC}        $UPTIME"
+echo -e "${GREEN}Shell:${NC}         $SHELL"
+echo -e "${GREEN}Resolution:${NC}    $RESOLUTION"
+echo -e "${GREEN}DE / WM:${NC}       $DE"
+echo -e "${GREEN}WM Theme:${NC}      ${WM_THEME:-N/A}"
+echo -e "${GREEN}GTK Theme:${NC}     ${GTK_THEME:-N/A}"
+echo -e "${GREEN}Icon Theme:${NC}    ${ICON_THEME:-N/A}"
+echo -e "${GREEN}CPU:${NC}           $CPU"
+echo -e "${GREEN}GPU:${NC}           $GPU"
+echo -e "${GREEN}RAM Usage:${NC}      $RAM"
+echo -e "${GREEN}Disk Usage:${NC}     $DISK"
+echo -e "${GREEN}Terminal:${NC}      $TERMINAL"
+if [ -n "$BATTERY" ]; then
+  echo -e "${GREEN}Battery:${NC}       $BATTERY"
+fi
+echo -e "${GREEN}Locale:${NC}        $LOCALE"
+echo -e "${GREEN}CPU Usage:${NC}     $CPU_USAGE"
+
+# Внизу цвета терминала для проверки темы
+echo -e "\n${BLUE}Terminal colors:${NC}"
+for i in {0..7}; do
+  echo -ne "\033[38;5;${i}m█\033[0m "
+done
+for i in {8..15}; do
+  echo -ne "\033[38;5;${i}m█\033[0m "
+done
+echo
