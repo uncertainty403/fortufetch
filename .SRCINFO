@@ -1,8 +1,8 @@
-pkgbase = fortunafetch
-	pkgdesc = THE BEST FETCH IN THE WORLD OF ALL EXISTING. 100% FASTER THAN FASTFETCH AND NEOFETCH. PROVEN BY SCIENTISTS.( The following project is a meme and was made for fun dont take it seriously )
+pkgbase = fortufetch
+	pkgdesc = the best fetch ever. faster than neofetch, fa
 	pkgver = 2.1
 	pkgrel = 3
-	url = https://github.com/alexskid/fortunafetch
+	url = https://github.com/fishcheese/fortufetch
 	arch = any
 	license = GPL 3.0
 	depends = xorg-xrandr
@@ -10,7 +10,7 @@ pkgbase = fortunafetch
 	depends = pciutils
 	depends = inetutils
 	depends = procps-ng
-	source = fortunafetch.sh
+	source = fortufetch.sh
 	md5sums = SKIP
 
-pkgname = fortunafetch
+pkgname = fortufetch
