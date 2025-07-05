@@ -1,9 +1,9 @@
-# fortufetch
+# Fortufetch
 
 <div align="center">
-  <img src="https://img.shields.io/badge/bash-4.0%2B-blue?style=flat-square" alt="Bash Version">
-  <img src="https://img.shields.io/badge/platform-linux-lightgrey?style=flat-square" alt="Platform">
-  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
+  <img src="https://img.shields.io/badge/bash-4.0%2B-1f425f?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Version">
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/license-MIT-56BEB8?style=for-the-badge" alt="MIT License">
 </div>
 
 A fast system information tool written in pure bash. No dependencies, no bloat.
