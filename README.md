@@ -1,36 +1,9 @@
-# System Fetch
-
-```
-                                 ░ ░░░░                            ░░░░░░
-                                 ░░░░░░                            ░░░░░░
-                                 ░░░▓▓░░░░   ░░░░░░░░░░░░░░░░░  ░░░░▒▒░░
-                                  ░░▓▓▓▓▓▓░░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░░░░▒▒▒▒▒▒░░
-                                    ░▓▓▓▓▓▓▓▓▓░░░▒▒▒▒▒▒▒▒░░░▒▒▒▒▒▒▒▒▒▒░
-                                    ░░▓▓▓▓▓▓▓▓▓▓▒░░▒▒▒▒░░▒▒▒▒▒▒▒▒▒▒▒░░
-                                 ░░░▒▓▓░░░░░░░░░▓▓░░▒▒░░▒▒░░░░░░░░░▒▒░░░░
-                                 ░░▓▓▓░   ░██░░░░▓▓░░░▒▒▒░░▒░██░░░░░▒▒▒░░
-                                 ░░▓▓░░ ░░██░░░█░░▓▓░░▒▒░░▒░░░██░  ░░▒▒░
-                                 ░░▓▓░  ░░███▓█▓░░▓▓░░▒▒░░██▓███░░ ░░▒▒░░
-                                 ░░▓▓░░   ░░█▓░░░░▓▓░░▒▒░░░░▓█░░   ░░▒▒░░
-                                  ░░▓▓░░░░  ░░░░▒▓▓░░░░▒▒░░░░░░  ░░░░▒▒░░░
-                                 ░░░░▓▓▓▓░░░░░▓▓▓▒░░▒▒░░▒▒▒▒░░░░░▒▒▒▒░░░░
-                                    ░░░░▓▓▓▓▓▓▒░░░░░▒▒░░░░░▒▒▒▒▒▒▒░░░░
-                                    ░░░▒▒░░░░░▒▒▒▒▒░░░░▒▒▒▒▒░░░░░▒▒░░░
-                                    ░░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░
-                                       ░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░
-                                          ░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░
-                                          ░░░░▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░
-                                            ░░░░▒▒▒▒▒▒▒▒▒▒░░░░
-                                               ░░░▒▒▒▒▒▒░░░
-                                               ░░░░░▒▒░░░░░
-                                                  ░░░░░░
-```
+# Fortufetch 
 
 > A fast, dependency-free system information tool inspired by neofetch
 
 ## Features
 
-- **Zero Dependencies** - Works with only built-in bash and `/proc` filesystem
 - **Lightweight** - Pure bash implementation with minimal footprint
 - **Fast** - Direct system file access for instant results
 - **Clean Output** - Beautiful ASCII art with color-coded system information
@@ -45,23 +18,10 @@
 - **Power**: Battery status (if available)
 - **Colors**: Terminal color palette
 
-## Installation
-
-```bash
-curl -o fetch https://raw.githubusercontent.com/username/system-fetch/main/fetch
-chmod +x fetch
-sudo mv fetch /usr/local/bin/
-```
-
-## Usage
-
-```bash
-fetch
-```
-
 ## Screenshots
 
-![System Fetch Output](screenshot.png)
+![Screenshots](https://github.com/user-attachments/assets/db966abb-0c9a-453a-8ecc-b8fcd32e1558)
+
 
 ## Requirements
 
@@ -71,8 +31,4 @@ fetch
 
 ## License
 
-MIT License - feel free to modify and distribute
-
----
-
-*Made with ❤️ for the terminal enthusiasts*
+[MIT License](https://github.com/uncertainty403/fortufetch/blob/main/LICENSE) - feel free to modify and distribute.
