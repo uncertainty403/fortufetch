@@ -36,4 +36,4 @@ A fast system information tool written in pure bash. No dependencies, no bloat.
 
 ## License
 
-[MIT License](https://github.com/uncertainty403/fortufetch/blob/main/LICENSE) - feel free to modify and distribute.
+[MIT License](https://github.com/uncertainty403/OWLFetch/blob/main/LICENSE) - feel free to modify and distribute.
