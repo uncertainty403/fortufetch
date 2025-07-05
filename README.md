@@ -18,7 +18,7 @@
 
 ## Screenshots
 
-![Screenshots](https://github.com/user-attachments/assets/25879f87-1e53-45c2-a1ca-a6b48101d5c1)
+![Screenshots](https://github.com/user-attachments/assets/c3dd2239-2755-4e2c-a7e2-438e19e770c8)
 
 
 ## Requirements
