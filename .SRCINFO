@@ -1,8 +1,8 @@
-pkgbase = fortufetch
-	pkgdesc = the best fetch ever. faster than neofetch, fa
+pkgbase = OWLFetch
+	pkgdesc = OWLFetch – a simple Fetch made in one day as a pet project.
 	pkgver = 2.1
 	pkgrel = 3
-	url = https://github.com/fishcheese/fortufetch
+	url = https://github.com/uncertainty403/fortufetch
 	arch = any
 	license = GPL 3.0
 	depends = xorg-xrandr
@@ -10,7 +10,7 @@ pkgbase = fortufetch
 	depends = pciutils
 	depends = inetutils
 	depends = procps-ng
-	source = fortufetch.sh
+	source = OWLFetch.sh
 	md5sums = SKIP
 
-pkgname = fortufetch
+pkgname = OWLFetch
