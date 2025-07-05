@@ -20,7 +20,7 @@
 
 ## Screenshots
 
-![Screenshots](https://github.com/user-attachments/assets/db966abb-0c9a-453a-8ecc-b8fcd32e1558)
+![Screenshots](https://github.com/user-attachments/assets/25879f87-1e53-45c2-a1ca-a6b48101d5c1)
 
 
 ## Requirements
