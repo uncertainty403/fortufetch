@@ -1,9 +1,17 @@
-# Fortufetch 
+# fortufetch
+
+<div align="center">
+  <img src="https://img.shields.io/badge/bash-4.0%2B-blue?style=flat-square" alt="Bash Version">
+  <img src="https://img.shields.io/badge/platform-linux-lightgrey?style=flat-square" alt="Platform">
+  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
+</div>
+
+A fast system information tool written in pure bash. No dependencies, no bloat.
 
 ## Features
 
 - **Lightweight** - Pure bash implementation with minimal footprint
-- **Fast** - Direct system file access for instant results
+- **Fast** - Direct system file access for instant results  
 - **Clean Output** - Beautiful ASCII art with color-coded system information
 - **Cross-Compatible** - Works on any Linux distribution
 
@@ -19,7 +27,6 @@
 ## Screenshots
 
 ![Screenshots](https://github.com/user-attachments/assets/c3dd2239-2755-4e2c-a7e2-438e19e770c8)
-
 
 ## Requirements
 
