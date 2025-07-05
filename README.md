@@ -1,7 +1,5 @@
 # Fortufetch 
 
-> A fast, dependency-free system information tool inspired by neofetch
-
 ## Features
 
 - **Lightweight** - Pure bash implementation with minimal footprint
