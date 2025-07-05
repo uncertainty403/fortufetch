@@ -1,4 +1,4 @@
-# Fortufetch
+# OWLFetch
 
 <div align="center">
   <img src="https://img.shields.io/badge/bash-4.0%2B-1f425f?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Version">
@@ -26,7 +26,7 @@ A fast system information tool written in pure bash. No dependencies, no bloat.
 
 ## Screenshots
 
-![Screenshots](https://github.com/user-attachments/assets/c3dd2239-2755-4e2c-a7e2-438e19e770c8)
+![OWLFetch - Screenshots](https://github.com/user-attachments/assets/c3dd2239-2755-4e2c-a7e2-438e19e770c8)
 
 ## Requirements
 
