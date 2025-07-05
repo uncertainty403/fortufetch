@@ -6,9 +6,7 @@
   <img src="https://img.shields.io/badge/license-MIT-56BEB8?style=for-the-badge" alt="MIT License">
 </div>
 
----
-
-## A fast system information tool written in pure bash. No dependencies, no bloat.
+### A fast system information tool written in pure bash. No dependencies, no bloat.
 
 ## Features
 
